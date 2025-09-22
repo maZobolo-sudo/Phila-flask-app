@@ -1,7 +1,8 @@
-lask
+flask
 pandas
 scikit-learn
 numpy
 gunicorn
+
 
 
